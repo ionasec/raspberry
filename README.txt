@@ -9,3 +9,9 @@ https://projects.raspberrypi.org/en/projects/getting-started-with-picamera/7
 
 #IP camera streaming demon
 https://tutorials-raspberrypi.de/raspberry-pi-ueberwachungskamera-livestream-einrichten/
+
+#IP cam adapter for win
+https://ip-webcam.appspot.com/
+
+#kindesis video stream
+https://docs.aws.amazon.com/kinesisvideostreams/latest/dg/producersdk-cpp-rpi.html
