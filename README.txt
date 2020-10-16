@@ -15,3 +15,7 @@ https://ip-webcam.appspot.com/
 
 #kindesis video stream
 https://docs.aws.amazon.com/kinesisvideostreams/latest/dg/producersdk-cpp-rpi.html
+
+#snap camera
+https://snapcamera.snapchat.com/guides/getting-started/
+
