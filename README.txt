@@ -4,6 +4,9 @@ https://www.raspberrypi.org/documentation/configuration/wireless/headless.md
 #setup bluetooth keyboard and mouse
 http://wiki.sunfounder.cc/index.php?title=Connecting_Raspberry_Pi_with_the_Bluetooth_keyboard
 
+#add AWS CLI
+sudo apt-get install awscli
+
 #add camera to raspberry
 https://projects.raspberrypi.org/en/projects/getting-started-with-picamera/7
 
